@@ -1,0 +1,46 @@
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  line-height: 150%;
+  color: #333;
+  background: #dbf1f7;
+}
+
+header {
+  background: #333;
+}
+
+h1 {
+  padding: 20px 0;
+  margin: 0;
+  margin-bottom: 20px;
+  font-size: 28px;
+  color: rgb(86, 86, 90);
+  text-align: left;
+}
+
+h2 {
+  padding: 20px 0;
+  margin: 0;
+  margin-bottom: 20px;
+  font-size: 26px;
+  color: rgb(86, 86, 90);
+  text-align: center;
+}
+table {
+  display: table;
+  border-spacing: 1px;
+  border-color: gray;
+  background-color: white;
+  border: 1px gray;
+  border-style: hidden;
+  padding: 3px;
+}
+
+.container {
+  width: 1024px;
+  margin: 0 auto;
+}
